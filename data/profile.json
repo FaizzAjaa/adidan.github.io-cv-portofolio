@@ -1,0 +1,28 @@
+{
+    "name": "Adidan Ari Sena Putra - Student Electronic Engineering",
+    "description": "Mahasiswa Sarjana Terapan (D4) Teknologi Rekayasa Elektronika yang berfokus pada bidang Embedded System dan Internet of Things (IoT). Memiliki keahlian dalam mengintegrasikan perangkat lunak, mikrokontroler, serta rancang bangun sistem cerdas. Berpengalaman dalam mentransformasikan teori akademis menjadi solusi teknis nyata melalui proyek laboratorium yang aplikatif. Adaptif terhadap perkembangan tren otomasi dan konektivitas, serta berdedikasi untuk menciptakan inovasi IoT yang solutif bagi industri modern.",
+    "profileImage": "images/profile.png",
+    "email": "adidan.43423001@mhs.polines.ac.id",
+    "phone": "+62 (895) 1478-0605",
+    "socialMedia": [
+        {
+            "platform": "Instagram",
+            "url": "https://instagram.com/ariadidan"
+        }
+    ],
+    "cv": {
+			"text": "Download CV",
+			"file": "docs/cv.pdf",
+			"icon": "fas fa-file-pdf"
+	},
+    "skills": [
+        {"name": "Biomedical Engineering", "icon": "fas fa-heart-pulse", "level": 60},
+        {"name": "PCB Design", "icon": "fas fa-microchip", "level": 70},
+        {"name": "Internet of Things", "icon": "fas fa-wifi", "level": 50},
+        {"name": "Hardware Design", "icon": "fas fa-desktop", "level": 60},
+	{"name": "Hardware Programming", "icon": "fas fa-c", "level": 70},
+        {"name": "Web Programming", "icon": "fab fa-js", "level": 60},
+	{"name": "Project Management", "icon": "fas fa-list-check", "level": 60},
+	{"name": "Foreign Languages", "icon": "fas fa-language", "level": 60}
+    ]
+}

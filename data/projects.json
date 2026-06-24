@@ -1,0 +1,12 @@
+[
+    {
+        "title": "Simulasi Parkir Otomatis",
+        "year": "2025",
+        "fund": "Rp200.000",
+        "partner": "Tim Mikrokontroler",
+        "role": "Programer",
+        "description": "Merancang alat parkir otomatis berbasis arduino IDE.",
+        "image": "images/project1.jpeg",
+        "link": "https://example.com/solar-water"
+    }
+]

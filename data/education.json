@@ -1,0 +1,16 @@
+[
+    {
+        "university": "SMKN 01 Semarang",
+		"logo": "images/logo.png",
+        "major": "-",
+        "year": "2020 - 2023",
+        "description": "-"
+    },
+    {
+        "university": "Politeknik Negeri Semarang",
+		"logo": "images/Logo-Polines-96dpi-200px.png",
+        "major": "Sarjana Terapan Teknik",
+        "year": "2023 - Sekarang",
+        "description": "Mahasiswa semester 6 jurusan Teknologi Rekayasa Elektronika dengan IPK saat ini 3.53 dari 4.00"
+    }
+]
